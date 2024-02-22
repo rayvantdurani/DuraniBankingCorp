@@ -1,0 +1,9 @@
+
+spring:
+  application:
+    name: "AccountsMicroService"
+
+  profiles:
+    active: default
+
+
